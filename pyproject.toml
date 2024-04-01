@@ -7,18 +7,13 @@ allow-direct-references = true
 
 [project]
 name = "testproject_1"
-version = "0.1.0"
+version = "0.1.1"
 authors = [
   { name="p0pe" },
 ]
 description = "test project for trusted publisher."
 readme = "README.md"
 requires-python = ">=3.8"
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
-    "Operating System :: OS Independent",
-]
 
 [project.urls]
 "Homepage" = "https://github.com/popenta/test-repo"
