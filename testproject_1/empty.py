@@ -1,1 +1,2 @@
-print('empty file')
+def print_empty():
+    print("is empty")
